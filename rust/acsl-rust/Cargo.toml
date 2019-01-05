@@ -1,0 +1,6 @@
+[package]
+name = "acsl-rust"
+version = "0.1.0"
+authors = ["Kyle Insaurralde <kinsaurralde@users.noreply.github.com>"]
+
+[dependencies]
